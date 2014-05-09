@@ -1,5 +1,8 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\source\hipchatuniversal\hipchatuniversal\hipchatuniversal\hipchatuniversal.windowsphone\obj\debug\intermediatexaml\hipchatuniversal.windowsphone.exe" HashGuid="9ecbc7e5-fe57-99a5-00db-5fb6c2637a73" />
+    <LocalAssembly PathName="c:\source\hipchatuniversal\hipchatuniversal\hipchatuniversal\hipchatuniversal.windowsphone\obj\debug\intermediatexaml\hipchatuniversal.windowsphone.exe" HashGuid="352fdc1c-9756-ae2d-71c8-78f4a52a249b" />
+    <ReferenceAssembly PathName="c:\source\hipchatuniversal\hipchatuniversal\packages\hipchat.net.portable.0.1.1\lib\portable-net45+win+windowsphoneapp81\hipchat.net.dll" HashGuid="8592107e-2e56-3217-92df-20d34f7c7742" />
+    <ReferenceAssembly PathName="c:\source\hipchatuniversal\hipchatuniversal\packages\newtonsoft.json.6.0.2\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9d7edd31-e823-430e-c3cf-22078730f8bb" />
+    <ReferenceAssembly PathName="c:\source\hipchatuniversal\hipchatuniversal\packages\microsoft.net.http.2.2.20\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

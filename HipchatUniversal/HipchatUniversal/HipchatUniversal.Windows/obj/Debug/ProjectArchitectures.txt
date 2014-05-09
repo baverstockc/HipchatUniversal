@@ -1,0 +1,1 @@
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.Windows\HipchatUniversal.Windows.csproj;neutral

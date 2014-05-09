@@ -30,3 +30,10 @@ C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.Wi
 C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\bin\Debug\HipChat.Net.dll
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\bin\Debug\System.Net.Http.Extensions.dll
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\bin\Debug\System.Net.Http.Extensions.xml
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\obj\Debug\HipchatUniversal.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Source\HipchatUniversal\HipchatUniversal\HipchatUniversal\HipchatUniversal.WindowsPhone\obj\Debug\HipchatUniversal.WindowsPhone.csproj.GenerateResource.Cache

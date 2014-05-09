@@ -1,8 +1,13 @@
-﻿using System;
+﻿using HipChat.Net;
+using HipChat.Net.Http;
+using HipChat.Net.Models.Request;
+using HipchatUniversal.Models;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
@@ -22,6 +27,8 @@ namespace HipchatUniversal
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        HipChatClient hipChat;
+
         public MainPage()
         {
             this.InitializeComponent();
@@ -36,13 +43,19 @@ namespace HipchatUniversal
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            // TODO: Prepare page for display here.
+            
+        }
 
-            // TODO: If your application contains multiple pages, ensure that you are
-            // handling the hardware Back button by registering for the
-            // Windows.Phone.UI.Input.HardwareButtons.BackPressed event.
-            // If you are using the NavigationHelper provided by some templates,
-            // this event is handled for you.
+        private void testButton_Click(object sender, RoutedEventArgs e)
+        {
+            var hipChat = new HipChatClient(new ApiConnection(new Credentials("LUsDP1PBWtX80Dfl5XifueYvWbyUpe6IkHF6i9FH")));
+
+            GetRooms();
+        }
+
+        public async void GetRooms()
+        {
+
         }
     }
 }
